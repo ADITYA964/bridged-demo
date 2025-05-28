@@ -1,0 +1,9 @@
+langchain-ollama==0.3.3
+ollama==0.4.9
+langchain==0.3.25
+langchain-pinecone==0.2.6
+dotenv==0.9.9
+lark==1.2.2
+langchain_huggingface==0.2.0
+langchain-community==0.3.24
+pinecone==6.0.2
